@@ -1,3 +1,7 @@
+---
+description: 實際應用例如同一時間段複利計算的極限
+---
+
 # 自然對數e
 
 [https://zh.wikipedia.org/wiki/E\_(数学常数\\](https://zh.wikipedia.org/wiki/E\_\(%E6%95%B0%E5%AD%A6%E5%B8%B8%E6%95%B0/)

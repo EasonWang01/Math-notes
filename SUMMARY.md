@@ -12,4 +12,4 @@
   * [柯西不等式](xiang-liang/ke-xi-bu-deng-shi.md)
 * [不等式](bu-deng-shi.md)
 * [對數應用](dui-shu-ying-yong.md)
-
+* [微分](wei-fen.md)
