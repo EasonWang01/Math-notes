@@ -1,16 +1,16 @@
 # 自然對數e
 
-[https://zh.wikipedia.org/wiki/E\_\(数学常数\](https://zh.wikipedia.org/wiki/E_%28数学常数\)
+[https://zh.wikipedia.org/wiki/E\_(数学常数\\](https://zh.wikipedia.org/wiki/E\_\(%E6%95%B0%E5%AD%A6%E5%B8%B8%E6%95%B0/)
 
 往下拉到定義部分
 
 ## 1.
 
-```text
+```
 定義 e 爲下列極限值：
 ```
 
-![](.gitbook/assets/螢幕快照%202018-02-16%20上午10.13.42.png)
+![](<.gitbook/assets/螢幕快照 2018-02-16 上午10.13.42.png>)
 
 可用程式計算
 
@@ -25,7 +25,7 @@ function a (n){return (1+1/n) ** n }
 
 以及
 
-![](.gitbook/assets/螢幕快照%202018-02-16%20上午10.14.16.png)
+![](<.gitbook/assets/螢幕快照 2018-02-16 上午10.14.16.png>)
 
 > n趨近極小值
 
@@ -42,13 +42,13 @@ function b (n){return (1+n) ** (1/n) }
 
 ## 2.
 
-```text
+```
 定義 e 爲下列無窮級數之和：
 ```
 
 可用程式計算
 
-```text
+```
 //fact用來計算階層的倒數
 function fact(x) {
    if(x==0) {
@@ -69,9 +69,9 @@ function c(n) {
 //c(345)
 ```
 
-&gt;以上兩者給n到一數以上時都會為2.7.......
+\>以上兩者給n到一數以上時都會為2.7.......
 
-## 當![{\displaystyle x=e}](https://wikimedia.org/api/rest_v1/media/math/render/svg/8ba47ab1931fc4886c5da08831962cc141d20655)時函數![f\(x\) = \sqrt\[x\]{x}](https://wikimedia.org/api/rest_v1/media/math/render/svg/e15600c8e263f973cca6db5347531ea5a6846aa8)有最大值
+## 當![{\displaystyle x=e}](https://wikimedia.org/api/rest\_v1/media/math/render/svg/8ba47ab1931fc4886c5da08831962cc141d20655)時函數![f(x) = \sqrt\[x\]{x}](https://wikimedia.org/api/rest\_v1/media/math/render/svg/e15600c8e263f973cca6db5347531ea5a6846aa8)有最大值
 
 ```javascript
 Math.newsqrt = function(a, b) {
@@ -87,4 +87,3 @@ Math.newsqrt(Math.exp(1), Math.exp(1))
 ```
 
 [http://blog.udn.com/cchahacaptain/4565752](http://blog.udn.com/cchahacaptain/4565752)
-
